@@ -2,6 +2,7 @@
 
 // 1. Your custom variables and variable overwrites.
 $global-font-family: 'Muli', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$navbar-nav-item-height: 50px;
 
 // 2. Import default variables and available mixins.
 @import "~uikit/src/scss/variables-theme.scss";
